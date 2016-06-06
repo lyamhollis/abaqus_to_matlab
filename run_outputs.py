@@ -87,7 +87,7 @@ os.remove('extract_coordinates_new.py')
 os.remove('report_time_new.py')
 os.remove('organise_time_files_new.py')
 
-print('output from: thrombus_'+str(l)+'_'+str(f)+'_'+str(s)+'_run.odb complete')
+##print('output from: thrombus_'+str(l)+'_'+str(f)+'_'+str(s)+'_run.odb complete')
   
 
 
